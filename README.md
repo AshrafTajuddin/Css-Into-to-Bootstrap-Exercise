@@ -19,11 +19,6 @@
 
 - [Click here to see CSS Code](css/style.css)
 
-```Google Fonts
-used Google Fonts for unique h1 font-family.
-
-```
-
 ### Resources
 
 - [Intro to Bootstrap- Bootstrap ](https://getbootstrap.com/docs/4.4/layout/overview/
