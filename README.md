@@ -2,13 +2,13 @@
 
 ## Data Structure
 
-- Create a fancy shape using clip-path website and then using that shape in your HTML.
+- Intro to Bootstrap
 
 ### Method
 
 ```html
-<!-- in HTML used  HTML Semantic Elements
-using Bootstrap Layout(Container-fluid) & Components(Button, Dropdown, Form, Jumbotron , NavBar & more ...)
+<!-- in HTML used  HTML Semantic Elements and
+ Bootstrap Layout(Container-fluid) & Components(Button, Dropdown, Form, Jumbotron , NavBar & more ...)
 ```
 
 - [Click here to see HTML Code](index.html)
@@ -31,4 +31,4 @@ used Google Fonts for unique h1 font-family.
 
 #### Result
 
-[Feel free to click here for the deployment!](https://ashraftajuddin.github.io/Css-ClipPath-Exercise/)
+[Feel free to click here for the deployment!](rcise/)
