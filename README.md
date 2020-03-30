@@ -21,7 +21,7 @@
 
 ### Resources
 
-- [Intro to Bootstrap- Bootstrap ](https://getbootstrap.com/docs/4.4/layout/overview/
+- [Intro to Bootstrap- Bootstrap ](https://getbootstrap.com/docs/4.4/layout/overview/)
 - [Bootstrap Components- mdbootstrap](https://mdbootstrap.com/docs/jquery/components/demo/)
 
 #### Result
