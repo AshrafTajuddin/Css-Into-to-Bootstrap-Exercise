@@ -1,4 +1,4 @@
-# Css-Into-to-Bootstrap-Exercise
+# Css-Intro-to-Bootstrap-Exercise
 
 ## Data Structure
 
