@@ -26,4 +26,4 @@
 
 #### Result
 
-[Feel free to click here for the deployment!](rcise/)
+[Feel free to click here for the deployment!](https://ashraftajuddin.github.io/Css-Into-to-Bootstrap-Exercise/)
